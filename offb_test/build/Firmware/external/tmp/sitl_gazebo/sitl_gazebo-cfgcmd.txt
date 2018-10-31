@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/jinwoo/offboard_test/install;-GUnix Makefiles;/home/jinwoo/offboard_test/src/Firmware/Tools/sitl_gazebo'

@@ -1,0 +1,8 @@
+prefix=/home/jinwoo/offboard_test/devel
+
+Name: offboard_test
+Description: Description of offboard_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinwoo/offboard_test/devel/lib 
+Requires: 
